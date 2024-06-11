@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-elatar" alt="ahmed-elatar" /></a> </p>
 
-- 🌱 I’m currently learning **Django, Python, Postgresql**
+- 🌱 I’m currently learning **Django, Python, PostgreSQL**
 
 - 📫 How to reach me **a7med.elatar55@gmail.com**
 
