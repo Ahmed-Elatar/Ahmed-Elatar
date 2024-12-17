@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed Elatar</h1>
 <h3 align="center">Junior Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-elatar&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-elatar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-elatar" alt="ahmed-elatar" /></a> </p>
 
 - 🌱 As a Junior Software Developer specializing in Django, I have honed my skills in backend development and CI/CD pipeline management using Github Actions and AWS. I was part of a dynamic remote team in an innovative Indian startup that empowers stock investors with effective portfolio management solutions.
 
@@ -12,6 +9,10 @@ Over this project, I have not only deepened my knowledge of Django, AWS, and Dig
 Driven by a constant thirst for learning and a keen eye for detail, I aim to bring value to teams that champion innovation, collaboration, and excellence in software development.
 
 I am currently exploring new opportunities that allow me to further expand my technical expertise and make a substantial impact. I am particularly interested in roles that offer challenging problems, opportunities for growth, and a collaborative and innovative work environment. If you believe I could be a fit for your team or project, I invite you to reach out to me directly. I look forward to connecting and discussing potential collaborations.**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-elatar&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-elatar" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-elatar" alt="ahmed-elatar" /></a> </p>
 
 
 - 📫 How to reach me **a7med.elatar55@gmail.com**
