@@ -27,7 +27,6 @@ I am currently exploring new opportunities that allow me to further expand my te
 <p align="left">
 <a href="https://linkedin.com/in/ahmed-elatar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed-Elatar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/elatttar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Elatar" height="30" width="40" /></a>
-
 <a href="https://www.hackerrank.com/a7med_elatar55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Ahmed Elatar" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/balloon_master" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Ahmed-Elatar" height="30" width="40" /></a>
 
